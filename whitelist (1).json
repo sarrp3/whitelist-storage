@@ -1,0 +1,54 @@
+{
+  "users": {
+    "": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1774206967.917416,
+      "duration": "permanent"
+    },
+    "NihoniumNeon": {
+      "expiry": 1775071150.8044164,
+      "added_by": "Local Manager",
+      "added_at": 1774207150.8044183,
+      "duration": "10d"
+    },
+    "Hero_499": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1774207161.61036,
+      "duration": "permanent"
+    },
+    "Frfrfrtey": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1774207243.3771966,
+      "duration": "permanent"
+    },
+    "Specmacs": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1774287946.2000186,
+      "duration": "permanent"
+    }
+  },
+  "hwids": {
+    "80a3a080-12e0-11eb-adee-806e6f6e6963": {
+      "expiry": 1775070977.6883156,
+      "added_by": "Local Manager",
+      "added_at": 1774206977.6883178,
+      "duration": "10d"
+    },
+    "10c0cc11-f2fc-11f0-8bd2-806e6f6e6963": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1774206994.7437687,
+      "duration": "permanent"
+    },
+    "e8474830-14df-11f0-bec0-806e6f6e6963": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1774287758.394304,
+      "duration": "permanent"
+    }
+  }
+}
